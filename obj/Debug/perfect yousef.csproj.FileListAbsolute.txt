@@ -1,0 +1,16 @@
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\bin\Debug\perfect yousef.exe.config
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\bin\Debug\perfect yousef.exe
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\bin\Debug\perfect yousef.pdb
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\obj\Debug\perfect yousef.csproj.AssemblyReference.cache
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\obj\Debug\perfect yousef.csproj.SuggestedBindingRedirects.cache
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\obj\Debug\perfect yousef.csproj.CoreCompileInputs.cache
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\obj\Debug\perfect yousef.exe
+C:\Users\m habib\Documents\perfect yousef\perfect yousef\obj\Debug\perfect yousef.pdb
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\bin\Debug\perfect yousef.exe.config
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\bin\Debug\perfect yousef.exe
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\bin\Debug\perfect yousef.pdb
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\obj\Debug\perfect yousef.csproj.AssemblyReference.cache
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\obj\Debug\perfect yousef.csproj.SuggestedBindingRedirects.cache
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\obj\Debug\perfect yousef.csproj.CoreCompileInputs.cache
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\obj\Debug\perfect yousef.exe
+C:\Users\m habib\Documents\program to find the perfect numbers from n1 to n2\perfect yousef\obj\Debug\perfect yousef.pdb
