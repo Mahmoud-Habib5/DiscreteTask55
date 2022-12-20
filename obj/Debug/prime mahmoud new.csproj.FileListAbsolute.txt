@@ -1,0 +1,16 @@
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\bin\Debug\prime mahmoud new.exe.config
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\bin\Debug\prime mahmoud new.exe
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\bin\Debug\prime mahmoud new.pdb
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.AssemblyReference.cache
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.SuggestedBindingRedirects.cache
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.CoreCompileInputs.cache
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\obj\Debug\prime mahmoud new.exe
+C:\Users\m habib\Documents\prime mahmoud new\prime mahmoud new\obj\Debug\prime mahmoud new.pdb
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\bin\Debug\prime mahmoud new.exe.config
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\bin\Debug\prime mahmoud new.exe
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\bin\Debug\prime mahmoud new.pdb
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.AssemblyReference.cache
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.SuggestedBindingRedirects.cache
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\obj\Debug\prime mahmoud new.csproj.CoreCompileInputs.cache
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\obj\Debug\prime mahmoud new.exe
+C:\Users\m habib\Documents\program to find the prime numbers from n1 to n2\prime mahmoud new\obj\Debug\prime mahmoud new.pdb
